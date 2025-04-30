@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (clients.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bank.cpp
+F:\cours3 project\bank\clients\stringfunction.h(13,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'bank.cpp')
+  
+F:\cours3 project\bank\clients\bank.cpp(66,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\cours3 project\bank\clients\bank.cpp(69,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\cours3 project\bank\clients\bank.cpp(76,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\cours3 project\bank\clients\bank.cpp(79,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\cours3 project\bank\clients\bank.cpp(87,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\cours3 project\bank\clients\bank.cpp(90,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\cours3 project\bank\clients\bank.cpp(100,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\cours3 project\bank\clients\bank.cpp(199,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  clients.vcxproj -> F:\cours3 project\bank\x64\Debug\Bank.exe
